@@ -140,3 +140,46 @@ Tem uma ideia de skill? Veja [como criar uma skill](skills/README.md) e abra um 
 O DIO Agent foi criado para acompanhar você nos Bootcamps e Formações da DIO. A ideia é simples: aprender na era da IA fica mais fácil quando você tem um mentor disponível a qualquer hora.
 
 Bons estudos, e vem com a gente. 🚀
+
+
+# DIO Agent - Cybersecurity Study Mentor
+
+## Sobre o Projeto
+
+Especialização do DIO Agent para auxiliar estudantes iniciantes em Cybersecurity, Linux, Redes e Segurança da Informação.
+
+A skill foi criada com o objetivo de orientar o aprendizado através de explicações guiadas, perguntas reflexivas, exercícios de fixação e atividades práticas.
+
+## Arquivos Criados
+
+### Skill
+
+skills/cybersecurity-study-mentor/SKILL.md
+
+### Conhecimento
+
+agent/knowledge/security-basics.md
+
+## Arquivos Alterados
+
+- AGENTS.md
+- agent/persona.md
+
+## Funcionalidades
+
+- Explicação de conceitos
+- Exercícios de fixação
+- Atividades práticas
+- Sugestão de laboratórios
+- Aprendizado guiado
+
+## Tecnologias
+
+- Hermes Agent
+- Markdown
+- Git
+- GitHub
+
+## Autor
+
+Rhayron Cristian Silva Lavras
